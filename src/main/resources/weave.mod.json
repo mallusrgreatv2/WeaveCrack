@@ -1,0 +1,5 @@
+{
+  "hooks": [
+    "com.github.mallusrgreat.weavecracked.CrackedHook"
+  ]
+}
