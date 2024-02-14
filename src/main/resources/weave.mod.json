@@ -1,6 +1,7 @@
 {
   "name": "WeaveCrack",
   "author": "mallusrgreatv2",
+  "version": "1.0",
   "link": "https://github.com/mallusrgreatv2/",
   "hooks": [
     "com.github.mallusrgreat.weavecracked.CrackedHook"
